@@ -1,0 +1,126 @@
+{
+    "last_mod_coc": "data/input/last_mod_coc.csv",
+    "base_dir": "data/code_of_conduct_files",
+    "patterns": [
+        "code_of_conduct", "coc", "conduct", "code-of-conduct",
+        "CODE_OF_CONDUCT", "COC", "CONDUCT", "CODE-OF-CONDUCT",
+        "CodeOfConduct", "codeofconduct", "Conduct", "Code-Of-Conduct",
+        "CoC"
+    ],
+    "flags": {
+        "F1": [
+            "being kind",
+            "empathy",
+            "empathic",
+            "kindness"
+        ],
+    
+        "F2": [
+            "respect in your speech",
+            "show respect",
+            "with respect",
+            "respect towards others",
+            "be respectful",
+            "respect for differences",
+            "different viewpoints",
+            "differing viewpoints",
+            "differing opinions",
+            "diverse perspectives",
+            "open to different possibilities",
+            "eliminate biases",
+            "accommodate differences"
+    
+        ],
+        "F3": [
+            "constructive feedback",
+            "constructive criticism",
+            "respectful criticism",
+            "tactful feedback",
+            "gracefully accepting",
+            "receptive to comments",
+            "constructively resolve conflict",
+            "feedback for improvement",
+            "thoughtful addressing"
+        ],
+        "F4": [
+            "responsibility and apologizing",
+            "apologize",
+            "take responsibility",
+            "acknowledge mistakes",
+            "admit fault"
+        ],
+        "F5": [
+            "be collaborative",
+            "best for the community",
+            "overall community",
+            "common good",
+            "community benefit",
+            "collective interest",
+            "broader community",
+            "community focus"
+        ],
+        "F6": [
+            "sexualized comments",
+            "sexual language",
+            "sexualized language",
+            "sexual imagery",
+            "inappropriate sexual content",
+            "sexually explicit",
+            "unwelcome sexual attention",
+            "sexually suggestive",
+            "groping",
+            "sexual advances",
+            "sexual jokes",
+            "sexual comments"
+        ],
+        "F7": [
+            "trolling", 
+            "insulting",
+            "derogatory comments",
+            "derogatory remarks",
+            "demeaning language",
+            "insults",
+            "personal attacks",
+            "ridicule",
+            "offensive jokes"
+        ],
+        "F8": [
+            "harass",
+            "harassing",
+            "harassment",
+            "stalking",
+            "intimidation",
+            "bullying",
+            "threatened",
+            "threats",
+            "persistent unwanted contact"
+        ],
+        "F9": [
+            "private information",
+            "publishing private information",
+            "doxxing",
+            "doxing",
+            "sharing personal data",
+            "leaking private info",
+            "exposing private details",
+            "unconsented disclosure",
+            "confidential information",
+            "privacy breach",
+            "revealing personal information",
+            "unauthorized sharing"
+        ],
+        "F10": [
+            "considered inappropriate",
+            "professional setting",
+            "behaving professionally",
+            "inappropriate conduct",
+            "unprofessional behavior",
+            "professional audience",
+            "inappropriate actions",
+            "unsuitable behavior",
+            "unacceptable conduct",
+            "improper behavior",
+            "inappropriate language"
+        ]
+    }
+}
